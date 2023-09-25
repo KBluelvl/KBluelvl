@@ -3,7 +3,7 @@
 
 ## Known Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,c,php,python)](https://skillicons.dev)
 
 ## Framework and Skills
 
