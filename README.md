@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+## Known Languages
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,c,php)](https://skillicons.dev)
+
+## Framework and Skills
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux)](https://skillicons.dev)
+
 <!--
 **KBluelvl/KBluelvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
