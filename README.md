@@ -7,7 +7,7 @@
 
 ## Framework and Skills
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux,idea,qt,vscode)](https://skillicons.dev)
 
 <!--
 **KBluelvl/KBluelvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
