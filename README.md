@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm Florian - I'm learning every day 🚀
+
+### What You'll Find Here:
+
+- **Open Source Projects:** I'm committed to the open-source community, and you'll find a variety of projects in my repositories. Feel free to explore, contribute, or use them in your own work.
 
 ## Known Languages
 
@@ -8,6 +13,8 @@
 ## Framework and Skills
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux,idea,qt,vscode)](https://skillicons.dev)
+
+Hope you find something interesting on my profile. Enjoy!
 
 <!--
 **KBluelvl/KBluelvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
