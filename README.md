@@ -8,7 +8,7 @@ I'm Florian - I'm learning every day 🚀
 
 ## Known Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,c,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,c,php,python,kotlin)](https://skillicons.dev)
 
 ## Framework and Skills
 
