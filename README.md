@@ -12,7 +12,7 @@ I'm Florian - I'm learning every day 🚀
 
 ## Framework and Skills
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux,idea,qt,vscode,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux,idea,qt,vscode,graphql,spring)](https://skillicons.dev)
 
 Hope you find something interesting on my profile. Enjoy!
 
