@@ -1,10 +1,14 @@
 # Hi there 👋
 
+![KBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbluelvl&hide=contribs,prs&theme=tokyonight) 
+
 I'm Florian - I'm learning every day 🚀
 
 ### What You'll Find Here:
 
 - **Open Source Projects:** I'm committed to the open-source community, and you'll find a variety of projects in my repositories. Feel free to explore, contribute, or use them in your own work.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbluelvl&layout=compact&theme=tokyonight)
 
 ## Known Languages
 
