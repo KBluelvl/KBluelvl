@@ -25,4 +25,4 @@ Hope you find something interesting on my profile. Enjoy!
 ## 🔭 I’m currently working on ...
 
 - portfolio in **nextjs**
-- upgrading the attendanceapp projet
+- upgrading the attendanceapp project
