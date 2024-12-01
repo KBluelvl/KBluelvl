@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=KBluelvl&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 ![KBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbluelvl&hide=contribs,prs&theme=tokyonight) 
 
 I'm Florian - I'm learning every day 🚀
