@@ -10,7 +10,7 @@ I'm Florian - I'm learning every day 🚀
 
 - **Open Source Projects:** I'm committed to the open-source community, and you'll find a variety of projects in my repositories. Feel free to explore, contribute, or use them in your own work.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbluelvl&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbluelvl&layout=compact&theme=tokyonight&hide=blade)
 
 ## Known Languages
 
